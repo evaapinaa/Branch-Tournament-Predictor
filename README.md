@@ -81,13 +81,3 @@ Ejemplo:
 ```bash
 make run_champsim
 ```
-
-## Contribuciones
-Si deseas mejorar este proyecto o tienes ideas adicionales, no dudes en abrir un _pull request_ o crear un _issue_.
-
-## Licencia
-Este proyecto está bajo la licencia MIT. Puedes usar, modificar y distribuir el código con las restricciones establecidas en el archivo de licencia.
-
----
-
-¡Gracias por usar este proyecto! Si tienes preguntas, contáctame.
