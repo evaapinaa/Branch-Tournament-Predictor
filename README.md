@@ -74,10 +74,3 @@ Después de ejecutar una bifurcación, esta función actualiza:
    - Incrementa el contador global.
    - Ajusta el selector para favorecer global.
 
-## Compilación e integración
-Asegúrate de incluir este archivo como parte de tu simulador de CPU. Si usas un Makefile, agrégalo al proceso de compilación.
-
-Ejemplo:
-```bash
-make run_champsim
-```
